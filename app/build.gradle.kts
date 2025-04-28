@@ -43,6 +43,7 @@ dependencies {
 
     implementation(libs.androidx.runtime.livedata)
     implementation(libs.evalex)
+    implementation(libs.exp4j)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
